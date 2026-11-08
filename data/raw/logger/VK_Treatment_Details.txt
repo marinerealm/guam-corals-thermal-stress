@@ -1,0 +1,135 @@
+Details
+Series: Temp, °C (Tank_4)
+	Devices
+		Device Info
+			• Product: HOBO UA-002-64 Pendant Temp/Light
+			• Serial Number: 21086851
+			• Version Number: 1.09
+			• Manufacturer: Onset Computer Corp.
+			• Device Memory: 65536
+			• Header Created: 09/26/13 03:17:28 PM GMT+10:00
+	Deployment Info
+		• Full Series Name: Temperature, °C
+		• Sensor Label: Tank_4
+		• Launch Name: VK_Treatment
+		• Deployment Number: 5
+		• Launch Time: 03/11/25 03:09:53 PM GMT+10:00
+		• Logging Interval: 00 Hr 15 Min 00 Sec
+		• Launch GMT Offset: 10 Hr 0 Min
+		• Battery at Launch: 2.95 Volts
+		• Launching Program: HOBOware Pro-3.7.16_1108_1030_Windows
+	Series Statistics
+		• Samples: 1,426
+		• Max: 35.971
+		• Min: 27.173
+		• Avg: 30.444
+		• Std Dev (σ): 1.790
+		• First Sample Time: 03/11/25 04:00:00 PM GMT+10:00
+		• Last Sample Time: 03/26/25 12:15:00 PM GMT+10:00
+Series: Intensity, lum/ft² (Tank_4)
+	Devices
+		Device Info
+			• Product: HOBO UA-002-64 Pendant Temp/Light
+			• Serial Number: 21086851
+			• Version Number: 1.09
+			• Manufacturer: Onset Computer Corp.
+			• Device Memory: 65536
+			• Header Created: 09/26/13 03:17:28 PM GMT+10:00
+	Deployment Info
+		• Full Series Name: Light Intensity, lum/ft²
+		• Sensor Label: Tank_4
+		• Launch Name: VK_Treatment
+		• Deployment Number: 5
+		• Launch Time: 03/11/25 03:09:53 PM GMT+10:00
+		• Logging Interval: 00 Hr 15 Min 00 Sec
+		• Launch GMT Offset: 10 Hr 0 Min
+		• Battery at Launch: 2.95 Volts
+		• Launching Program: HOBOware Pro-3.7.16_1108_1030_Windows
+	Series Statistics
+		• Samples: 1,426
+		• Max: 14,848.0
+		• Min: 0.0
+		• Avg: 423.5
+		• Std Dev (σ): 1,251.0
+		• First Sample Time: 03/11/25 04:00:00 PM GMT+10:00
+		• Last Sample Time: 03/26/25 12:15:00 PM GMT+10:00
+Event Type: Coupler Attached
+	Devices
+		Device Info
+			• Product: HOBO UA-002-64 Pendant Temp/Light
+			• Serial Number: 21086851
+			• Version Number: 1.09
+			• Manufacturer: Onset Computer Corp.
+			• Device Memory: 65536
+			• Header Created: 09/26/13 03:17:28 PM GMT+10:00
+	Deployment Info
+		• Full Series Name: Coupler Attached
+		• Launch Name: VK_Treatment
+		• Deployment Number: 5
+		• Launch Time: 03/11/25 03:09:53 PM GMT+10:00
+		• Launch GMT Offset: 10 Hr 0 Min
+		• Battery at Launch: 2.95 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 03/26/25 12:23:40 PM GMT+10:00
+		• Last Sample Time: 03/26/25 12:23:40 PM GMT+10:00
+Event Type: Host Connected
+	Devices
+		Device Info
+			• Product: HOBO UA-002-64 Pendant Temp/Light
+			• Serial Number: 21086851
+			• Version Number: 1.09
+			• Manufacturer: Onset Computer Corp.
+			• Device Memory: 65536
+			• Header Created: 09/26/13 03:17:28 PM GMT+10:00
+	Deployment Info
+		• Full Series Name: Host Connected
+		• Launch Name: VK_Treatment
+		• Deployment Number: 5
+		• Launch Time: 03/11/25 03:09:53 PM GMT+10:00
+		• Launch GMT Offset: 10 Hr 0 Min
+		• Battery at Launch: 2.95 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 03/26/25 12:23:42 PM GMT+10:00
+		• Last Sample Time: 03/26/25 12:23:42 PM GMT+10:00
+Event Type: Stopped
+	Devices
+		Device Info
+			• Product: HOBO UA-002-64 Pendant Temp/Light
+			• Serial Number: 21086851
+			• Version Number: 1.09
+			• Manufacturer: Onset Computer Corp.
+			• Device Memory: 65536
+			• Header Created: 09/26/13 03:17:28 PM GMT+10:00
+	Deployment Info
+		• Full Series Name: Stopped
+		• Launch Name: VK_Treatment
+		• Deployment Number: 5
+		• Launch Time: 03/11/25 03:09:53 PM GMT+10:00
+		• Launch GMT Offset: 10 Hr 0 Min
+		• Battery at Launch: 2.95 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 03/26/25 12:24:20 PM GMT+10:00
+		• Last Sample Time: 03/26/25 12:24:20 PM GMT+10:00
+Event Type: End Of File
+	Devices
+		Device Info
+			• Product: HOBO UA-002-64 Pendant Temp/Light
+			• Serial Number: 21086851
+			• Version Number: 1.09
+			• Manufacturer: Onset Computer Corp.
+			• Device Memory: 65536
+			• Header Created: 09/26/13 03:17:28 PM GMT+10:00
+	Deployment Info
+		• Full Series Name: End Of File
+		• Launch Name: VK_Treatment
+		• Deployment Number: 5
+		• Launch Time: 03/11/25 03:09:53 PM GMT+10:00
+		• Launch GMT Offset: 10 Hr 0 Min
+		• Battery at Launch: 2.95 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 03/26/25 12:24:20 PM GMT+10:00
+		• Last Sample Time: 03/26/25 12:24:20 PM GMT+10:00

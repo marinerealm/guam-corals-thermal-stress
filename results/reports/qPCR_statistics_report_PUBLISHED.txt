@@ -1,0 +1,101 @@
+=====================================================================
+ qPCR STATISTICAL REPORT
+ Generated: 2026-08-28 22:33 
+=====================================================================
+
+SECTION 1. CONTROL vs HEAT  --  DESCRIPTIVE ONLY
+---------------------------------------------------------------------
+The experiment used one aquarium per treatment, so coral fragments
+within an aquarium are pseudoreplicates with respect to temperature.
+These p-values test whether two aquaria differed, not whether
+temperature caused the difference. Report the fold changes; do NOT
+report these p-values as evidence of a temperature effect.
+
+Note the min_possible_p column: at n=2 vs n=2 a Wilcoxon test cannot
+return p below 0.333 regardless of effect size.
+
+       Species         Target n_control n_heat    ddCq fold_change p_ttest p_wilcox min_possible_p                                    interpretation
+1     Acropora Endozoicomonas         2      4  1.4275      0.3718  0.1540   0.4875         0.1333 underpowered - significance unreachable at this n
+2     Acropora    Cladocopium         4      4  0.4037      0.7559  0.4769   0.3123         0.0286                                   not significant
+3     Acropora    Durusdinium         4      4 -2.0750      4.2134  0.0697   0.1124         0.0286                                   not significant
+4       Pavona Endozoicomonas         4      4  0.4900      0.7120  0.4634   0.8852         0.0286                                   not significant
+5       Pavona    Cladocopium         4      4  0.3250      0.7983  0.2438   0.1939         0.0286                                   not significant
+6       Pavona    Durusdinium         4      4 -0.0700      1.0497  0.7597   1.0000         0.0286                                   not significant
+7 Sclerophytum Endozoicomonas         2      2 -2.6800      6.4086  0.1649   0.2453         0.3333 underpowered - significance unreachable at this n
+8 Sclerophytum    Cladocopium         2      2 -0.2425      1.1830  0.2403   0.2453         0.3333 underpowered - significance unreachable at this n
+9 Sclerophytum    Durusdinium         2      2  0.0925      0.9379  0.7442   1.0000         0.3333 underpowered - significance unreachable at this n
+                                             VALID_INFERENCE
+1 NO - single tank per treatment; report as effect size only
+2 NO - single tank per treatment; report as effect size only
+3 NO - single tank per treatment; report as effect size only
+4 NO - single tank per treatment; report as effect size only
+5 NO - single tank per treatment; report as effect size only
+6 NO - single tank per treatment; report as effect size only
+7 NO - single tank per treatment; report as effect size only
+8 NO - single tank per treatment; report as effect size only
+9 NO - single tank per treatment; report as effect size only
+
+
+SECTION 2. BETWEEN-SPECIES, HEAT AQUARIUM  --  VALID INFERENCE
+---------------------------------------------------------------------
+All three species were held in the SAME heated aquarium, so aquarium
+identity is held constant and species differences are not confounded
+by tank. These tests are legitimate inference and are the appropriate
+basis for the statistical claims in the manuscript.
+
+          Target n_total KW_chisq   KW_p ANOVA_F ANOVA_p                                   VALID_INFERENCE
+1 Endozoicomonas      10   5.2364 0.0729  8.5656  0.0131 YES - all species shared the same heated aquarium
+2    Cladocopium      10   2.5091 0.2852  0.6177  0.5662 YES - all species shared the same heated aquarium
+3    Durusdinium      10   7.2818 0.0262 10.9406  0.0070 YES - all species shared the same heated aquarium
+
+
+SECTION 3. PAIRWISE SPECIES CONTRASTS (Benjamini-Hochberg corrected)
+---------------------------------------------------------------------
+          Target Species_A    Species_B n_A n_B mean_ddCq_A mean_ddCq_B  p_raw   p_BH signif
+1 Endozoicomonas  Acropora       Pavona   4   4      1.4275      0.4900 0.3315 0.3315     ns
+2 Endozoicomonas  Acropora Sclerophytum   4   2      1.4275     -2.6800 0.0094 0.0149      *
+3 Endozoicomonas    Pavona Sclerophytum   4   2      0.4900     -2.6800 0.0099 0.0149      *
+4    Cladocopium  Acropora       Pavona   4   4      0.4037      0.3250 0.8896 0.8896     ns
+5    Cladocopium  Acropora Sclerophytum   4   2      0.4037     -0.2425 0.2848 0.4271     ns
+6    Cladocopium    Pavona Sclerophytum   4   2      0.3250     -0.2425 0.0575 0.1724     ns
+7    Durusdinium  Acropora       Pavona   4   4     -2.0750     -0.0700 0.0262 0.0393      *
+8    Durusdinium  Acropora Sclerophytum   4   2     -2.0750      0.0925 0.0184 0.0393      *
+9    Durusdinium    Pavona Sclerophytum   4   2     -0.0700      0.0925 0.5893 0.5893     ns
+
+
+SECTION 4. HOW TO REPORT THIS
+---------------------------------------------------------------------
+Results section wording:
+
+  Because the experiment used a single aquarium per treatment,
+  statistical comparisons were restricted to differences among species
+  within the heated aquarium, where all species experienced identical
+  conditions. Endozoicomonas response differed significantly among
+  species (one-way ANOVA on ddCq, F = [X], p = [X]), with Sclerophytum
+  sp. differing from both Acropora cf. manni and Pavona decussata
+  (Benjamini-Hochberg adjusted p = [X] for both). Durusdinium response
+  also differed among species (F = [X], p = [X]), driven by A. cf. manni,
+  which differed from both other species (adjusted p = [X]).
+  Cladocopium abundance did not differ among species (p = [X]).
+  Control-versus-heat differences are reported as fold changes without
+  inferential statistics, because fragments within an aquarium are not
+  independent replicates with respect to temperature.
+
+Fill each [X] from the tables above.
+
+
+SECTION 5. CAVEATS TO STATE IN THE MANUSCRIPT
+---------------------------------------------------------------------
+ 1. Sclerophytum sp. has n = 2 biological replicates per group.
+ 2. Acropora Endozoicomonas Cq values (33-35) are at or beyond the
+    limit of quantification; samples AC2 and AC3 did not amplify.
+    Do not report a fold change for this comparison.
+ 3. Acropora Durusdinium Cq values (32-33) are near the LOQ and
+    replicate variation was high (fold change 2.3 to 11.5).
+ 4. Two technical replicates per sample, not three.
+ 5. Amplification efficiencies were assumed equal across assays
+    (Livak method). State this explicitly if standard curves were
+    not run.
+ 6. For Endozoicomonas the parametric ANOVA (p = 0.013) and the
+    non-parametric Kruskal-Wallis (p = 0.073) disagree. This reflects
+    low power at small n. Report both.

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Thermal stress experiment on three Guam corals, March 2025"
+message: "If you use these data or code, please cite the accompanying manuscript."
+type: dataset
+authors:
+  - given-names: Gaurav
+    name-particle: G.
+    family-names: Shimpi
+    email: nature.gaurav@gmail.com
+    orcid: "https://orcid.org/0000-0003-1289-3021"
+    affiliation: "University of Guam Marine Laboratory; The University of Tokyo"
+  - given-names: Vinicia
+    family-names: Kim
+    affiliation: "University of Guam Marine Laboratory"
+  - given-names: Bastian
+    family-names: Bentlage
+    orcid: "https://orcid.org/0000-0002-9554-3125"
+    affiliation: "University of Guam Marine Laboratory"
+date-released: 2026-11-05
+license: CC-BY-4.0
+abstract: >-
+  Dark-adapted photosynthetic efficiency, seawater temperature and illuminance
+  records, and symbiont qPCR data from a seven-day thermal stress experiment on
+  Acropora cf. manni, Pavona decussata and Sclerophytum sp. at the University of
+  Guam Marine Laboratory, March 2025, together with the R scripts used to
+  analyse them.
+keywords:
+  - coral bleaching
+  - Symbiodiniaceae
+  - Endozoicomonas
+  - PAM fluorometry
+  - thermal stress

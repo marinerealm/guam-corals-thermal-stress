@@ -1,0 +1,327 @@
+Date,Time,Phase,Elevation_C,Species,Tank,Tank_basis,Reading_no,n_species,split_at,Fo,Fm,FvFm
+2025-03-12,18:55:10,heat,+2.04,Acropora,Control,equal split,1,24,12,128,406,0.685
+2025-03-12,18:55:16,heat,+2.04,Acropora,Control,equal split,2,24,12,211,550,0.616
+2025-03-12,18:55:21,heat,+2.04,Acropora,Control,equal split,3,24,12,57,106,0.462
+2025-03-12,18:55:37,heat,+2.04,Acropora,Control,equal split,4,24,12,296,817,0.638
+2025-03-12,18:55:45,heat,+2.04,Acropora,Control,equal split,5,24,12,140,382,0.634
+2025-03-12,18:56:10,heat,+2.04,Acropora,Control,equal split,6,24,12,172,604,0.715
+2025-03-12,18:56:26,heat,+2.04,Acropora,Control,equal split,7,24,12,426,1139,0.626
+2025-03-12,18:56:32,heat,+2.04,Acropora,Control,equal split,8,24,12,532,1479,0.640
+2025-03-12,18:56:37,heat,+2.04,Acropora,Control,equal split,9,24,12,497,1401,0.645
+2025-03-12,18:56:49,heat,+2.04,Acropora,Control,equal split,10,24,12,411,1054,0.610
+2025-03-12,18:56:56,heat,+2.04,Acropora,Control,equal split,11,24,12,313,829,0.622
+2025-03-12,18:57:05,heat,+2.04,Acropora,Control,equal split,12,24,12,547,1560,0.649
+2025-03-12,18:57:14,heat,+2.04,Acropora,Heat,equal split,13,24,12,164,406,0.596
+2025-03-12,18:57:19,heat,+2.04,Acropora,Heat,equal split,14,24,12,380,1091,0.652
+2025-03-12,18:57:27,heat,+2.04,Acropora,Heat,equal split,15,24,12,431,1071,0.598
+2025-03-12,18:57:36,heat,+2.04,Acropora,Heat,equal split,16,24,12,374,1109,0.663
+2025-03-12,18:57:43,heat,+2.04,Acropora,Heat,equal split,17,24,12,357,964,0.630
+2025-03-12,18:57:50,heat,+2.04,Acropora,Heat,equal split,18,24,12,469,1794,0.739
+2025-03-12,18:57:59,heat,+2.04,Acropora,Heat,equal split,19,24,12,512,1700,0.699
+2025-03-12,18:58:04,heat,+2.04,Acropora,Heat,equal split,20,24,12,582,1745,0.666
+2025-03-12,18:58:10,heat,+2.04,Acropora,Heat,equal split,21,24,12,496,1419,0.650
+2025-03-12,18:58:19,heat,+2.04,Acropora,Heat,equal split,22,24,12,523,1577,0.668
+2025-03-12,18:58:25,heat,+2.04,Acropora,Heat,equal split,23,24,12,407,1251,0.675
+2025-03-12,18:58:30,heat,+2.04,Acropora,Heat,equal split,24,24,12,443,1378,0.679
+2025-03-12,18:58:53,heat,+2.04,Pavona,Control,equal split,1,27,13,545,1245,0.562
+2025-03-12,18:59:01,heat,+2.04,Pavona,Control,equal split,2,27,13,755,1697,0.555
+2025-03-12,18:59:05,heat,+2.04,Pavona,Control,equal split,3,27,13,524,1163,0.549
+2025-03-12,18:59:16,heat,+2.04,Pavona,Control,equal split,4,27,13,275,617,0.554
+2025-03-12,18:59:20,heat,+2.04,Pavona,Control,equal split,5,27,13,496,1022,0.515
+2025-03-12,18:59:26,heat,+2.04,Pavona,Control,equal split,6,27,13,446,818,0.455
+2025-03-12,18:59:36,heat,+2.04,Pavona,Control,equal split,7,27,13,539,1171,0.540
+2025-03-12,18:59:40,heat,+2.04,Pavona,Control,equal split,8,27,13,722,1170,0.383
+2025-03-12,18:59:45,heat,+2.04,Pavona,Control,equal split,9,27,13,379,675,0.439
+2025-03-12,18:59:53,heat,+2.04,Pavona,Control,equal split,10,27,13,134,297,0.549
+2025-03-12,18:59:56,heat,+2.04,Pavona,Control,equal split,11,27,13,163,303,0.462
+2025-03-12,19:00:00,heat,+2.04,Pavona,Control,equal split,12,27,13,236,424,0.443
+2025-03-12,19:00:18,heat,+2.04,Pavona,Control,equal split,13,27,13,531,1189,0.553
+2025-03-12,19:00:23,heat,+2.04,Pavona,Heat,equal split,14,27,13,794,1545,0.486
+2025-03-12,19:00:29,heat,+2.04,Pavona,Heat,equal split,15,27,13,502,1010,0.503
+2025-03-12,19:01:00,heat,+2.04,Pavona,Heat,equal split,16,27,13,384,851,0.549
+2025-03-12,19:01:04,heat,+2.04,Pavona,Heat,equal split,17,27,13,499,892,0.441
+2025-03-12,19:01:08,heat,+2.04,Pavona,Heat,equal split,18,27,13,392,685,0.428
+2025-03-12,19:01:27,heat,+2.04,Pavona,Heat,equal split,19,27,13,342,891,0.616
+2025-03-12,19:01:52,heat,+2.04,Pavona,Heat,equal split,20,27,13,809,1063,0.239
+2025-03-12,19:01:59,heat,+2.04,Pavona,Heat,equal split,21,27,13,519,1121,0.537
+2025-03-12,19:02:02,heat,+2.04,Pavona,Heat,equal split,22,27,13,752,1237,0.392
+2025-03-12,19:02:11,heat,+2.04,Pavona,Heat,equal split,23,27,13,305,621,0.509
+2025-03-12,19:02:16,heat,+2.04,Pavona,Heat,equal split,24,27,13,527,760,0.307
+2025-03-12,19:02:19,heat,+2.04,Pavona,Heat,equal split,25,27,13,449,910,0.507
+2025-03-12,19:02:30,heat,+2.04,Pavona,Heat,equal split,26,27,13,195,852,0.771
+2025-03-12,19:02:38,heat,+2.04,Pavona,Heat,equal split,27,27,13,673,1528,0.560
+2025-03-12,19:02:52,heat,+2.04,Sclerophytum,Control,equal split,1,12,6,682,1738,0.608
+2025-03-12,19:03:09,heat,+2.04,Sclerophytum,Control,equal split,2,12,6,615,1324,0.535
+2025-03-12,19:03:15,heat,+2.04,Sclerophytum,Control,equal split,3,12,6,761,1772,0.571
+2025-03-12,19:03:19,heat,+2.04,Sclerophytum,Control,equal split,4,12,6,1020,1624,0.372
+2025-03-12,19:03:38,heat,+2.04,Sclerophytum,Control,equal split,5,12,6,625,1752,0.643
+2025-03-12,19:03:45,heat,+2.04,Sclerophytum,Control,equal split,6,12,6,761,1813,0.580
+2025-03-12,19:03:53,heat,+2.04,Sclerophytum,Heat,equal split,7,12,6,83,218,0.619
+2025-03-12,19:04:18,heat,+2.04,Sclerophytum,Heat,equal split,8,12,6,879,2042,0.570
+2025-03-12,19:04:22,heat,+2.04,Sclerophytum,Heat,equal split,9,12,6,1185,2415,0.509
+2025-03-12,19:04:34,heat,+2.04,Sclerophytum,Heat,equal split,10,12,6,267,647,0.587
+2025-03-12,19:04:53,heat,+2.04,Sclerophytum,Heat,equal split,11,12,6,293,468,0.374
+2025-03-12,19:05:02,heat,+2.04,Sclerophytum,Heat,equal split,12,12,6,376,802,0.531
+2025-03-13,18:52:44,heat,+2.10,Acropora,Control,equal split,1,24,12,237,785,0.698
+2025-03-13,18:52:50,heat,+2.10,Acropora,Control,equal split,2,24,12,302,803,0.624
+2025-03-13,18:52:55,heat,+2.10,Acropora,Control,equal split,3,24,12,310,796,0.611
+2025-03-13,18:53:05,heat,+2.10,Acropora,Control,equal split,4,24,12,226,609,0.629
+2025-03-13,18:53:10,heat,+2.10,Acropora,Control,equal split,5,24,12,254,589,0.569
+2025-03-13,18:53:34,heat,+2.10,Acropora,Control,equal split,6,24,12,164,434,0.622
+2025-03-13,18:53:56,heat,+2.10,Acropora,Control,equal split,7,24,12,154,454,0.661
+2025-03-13,18:54:02,heat,+2.10,Acropora,Control,equal split,8,24,12,137,451,0.696
+2025-03-13,18:54:10,heat,+2.10,Acropora,Control,equal split,9,24,12,144,454,0.683
+2025-03-13,18:54:18,heat,+2.10,Acropora,Control,equal split,10,24,12,127,420,0.698
+2025-03-13,18:54:24,heat,+2.10,Acropora,Control,equal split,11,24,12,181,500,0.638
+2025-03-13,18:54:32,heat,+2.10,Acropora,Control,equal split,12,24,12,154,420,0.633
+2025-03-13,18:54:40,heat,+2.10,Acropora,Heat,equal split,13,24,12,173,555,0.688
+2025-03-13,18:54:46,heat,+2.10,Acropora,Heat,equal split,14,24,12,158,495,0.681
+2025-03-13,18:54:51,heat,+2.10,Acropora,Heat,equal split,15,24,12,123,544,0.774
+2025-03-13,18:54:59,heat,+2.10,Acropora,Heat,equal split,16,24,12,140,426,0.671
+2025-03-13,18:55:05,heat,+2.10,Acropora,Heat,equal split,17,24,12,102,393,0.740
+2025-03-13,18:55:11,heat,+2.10,Acropora,Heat,equal split,18,24,12,156,437,0.643
+2025-03-13,18:55:21,heat,+2.10,Acropora,Heat,equal split,19,24,12,62,495,0.875
+2025-03-13,18:55:28,heat,+2.10,Acropora,Heat,equal split,20,24,12,102,563,0.819
+2025-03-13,18:55:38,heat,+2.10,Acropora,Heat,equal split,21,24,12,133,428,0.689
+2025-03-13,18:55:47,heat,+2.10,Acropora,Heat,equal split,22,24,12,119,346,0.656
+2025-03-13,18:55:54,heat,+2.10,Acropora,Heat,equal split,23,24,12,168,492,0.659
+2025-03-13,18:56:00,heat,+2.10,Acropora,Heat,equal split,24,24,12,115,436,0.736
+2025-03-13,18:57:15,heat,+2.10,Pavona,Control,equal split,1,27,13,322,1111,0.710
+2025-03-13,18:57:20,heat,+2.10,Pavona,Control,equal split,2,27,13,66,220,0.700
+2025-03-13,18:57:28,heat,+2.10,Pavona,Control,equal split,3,27,13,337,930,0.638
+2025-03-13,18:57:36,heat,+2.10,Pavona,Control,equal split,4,27,13,299,937,0.681
+2025-03-13,18:57:44,heat,+2.10,Pavona,Control,equal split,5,27,13,410,1301,0.685
+2025-03-13,18:57:52,heat,+2.10,Pavona,Control,equal split,6,27,13,132,1218,0.892
+2025-03-13,18:58:03,heat,+2.10,Pavona,Control,equal split,7,27,13,461,1151,0.599
+2025-03-13,18:58:08,heat,+2.10,Pavona,Control,equal split,8,27,13,329,938,0.649
+2025-03-13,18:58:13,heat,+2.10,Pavona,Control,equal split,9,27,13,490,1171,0.582
+2025-03-13,18:58:23,heat,+2.10,Pavona,Control,equal split,10,27,13,162,485,0.666
+2025-03-13,18:58:28,heat,+2.10,Pavona,Control,equal split,11,27,13,425,1011,0.580
+2025-03-13,18:58:33,heat,+2.10,Pavona,Control,equal split,12,27,13,466,986,0.527
+2025-03-13,18:58:40,heat,+2.10,Pavona,Control,equal split,13,27,13,247,631,0.609
+2025-03-13,18:58:45,heat,+2.10,Pavona,Heat,equal split,14,27,13,465,1233,0.623
+2025-03-13,18:58:50,heat,+2.10,Pavona,Heat,equal split,15,27,13,143,228,0.373
+2025-03-13,18:58:59,heat,+2.10,Pavona,Heat,equal split,16,27,13,45,327,0.862
+2025-03-13,18:59:07,heat,+2.10,Pavona,Heat,equal split,17,27,13,486,1319,0.632
+2025-03-13,18:59:14,heat,+2.10,Pavona,Heat,equal split,18,27,13,431,1202,0.641
+2025-03-13,18:59:23,heat,+2.10,Pavona,Heat,equal split,19,27,13,264,913,0.711
+2025-03-13,18:59:29,heat,+2.10,Pavona,Heat,equal split,20,27,13,342,976,0.650
+2025-03-13,18:59:35,heat,+2.10,Pavona,Heat,equal split,21,27,13,380,1090,0.651
+2025-03-13,18:59:43,heat,+2.10,Pavona,Heat,equal split,22,27,13,123,364,0.662
+2025-03-13,18:59:48,heat,+2.10,Pavona,Heat,equal split,23,27,13,288,1030,0.720
+2025-03-13,18:59:54,heat,+2.10,Pavona,Heat,equal split,24,27,13,656,1241,0.471
+2025-03-13,19:00:06,heat,+2.10,Pavona,Heat,equal split,25,27,13,505,1415,0.643
+2025-03-13,19:00:12,heat,+2.10,Pavona,Heat,equal split,26,27,13,530,1458,0.636
+2025-03-13,19:00:18,heat,+2.10,Pavona,Heat,equal split,27,27,13,441,983,0.551
+2025-03-13,19:05:16,heat,+2.10,Sclerophytum,Control,equal split,1,18,9,1037,2292,0.548
+2025-03-13,19:05:21,heat,+2.10,Sclerophytum,Control,equal split,2,18,9,1187,2302,0.484
+2025-03-13,19:05:26,heat,+2.10,Sclerophytum,Control,equal split,3,18,9,1115,2237,0.502
+2025-03-13,19:05:40,heat,+2.10,Sclerophytum,Control,equal split,4,18,9,827,1941,0.574
+2025-03-13,19:05:45,heat,+2.10,Sclerophytum,Control,equal split,5,18,9,1062,2094,0.493
+2025-03-13,19:05:50,heat,+2.10,Sclerophytum,Control,equal split,6,18,9,1055,2131,0.505
+2025-03-13,19:06:02,heat,+2.10,Sclerophytum,Control,equal split,7,18,9,411,1347,0.695
+2025-03-13,19:06:06,heat,+2.10,Sclerophytum,Control,equal split,8,18,9,869,2001,0.566
+2025-03-13,19:06:10,heat,+2.10,Sclerophytum,Control,equal split,9,18,9,1035,2043,0.493
+2025-03-13,19:06:25,heat,+2.10,Sclerophytum,Heat,equal split,10,18,9,652,1900,0.657
+2025-03-13,19:06:29,heat,+2.10,Sclerophytum,Heat,equal split,11,18,9,1100,2352,0.532
+2025-03-13,19:06:36,heat,+2.10,Sclerophytum,Heat,equal split,12,18,9,1229,2337,0.474
+2025-03-13,19:07:00,heat,+2.10,Sclerophytum,Heat,equal split,13,18,9,918,2134,0.570
+2025-03-13,19:07:07,heat,+2.10,Sclerophytum,Heat,equal split,14,18,9,670,1604,0.582
+2025-03-13,19:07:14,heat,+2.10,Sclerophytum,Heat,equal split,15,18,9,1039,2516,0.587
+2025-03-13,19:07:24,heat,+2.10,Sclerophytum,Heat,equal split,16,18,9,715,1540,0.536
+2025-03-13,19:07:30,heat,+2.10,Sclerophytum,Heat,equal split,17,18,9,845,1884,0.551
+2025-03-13,19:07:36,heat,+2.10,Sclerophytum,Heat,equal split,18,18,9,540,2276,0.763
+2025-03-14,19:19:21,heat,+2.48,Acropora,Control,equal split,1,24,12,157,520,0.698
+2025-03-14,19:19:29,heat,+2.48,Acropora,Control,equal split,2,24,12,147,447,0.671
+2025-03-14,19:19:35,heat,+2.48,Acropora,Control,equal split,3,24,12,165,478,0.655
+2025-03-14,19:19:42,heat,+2.48,Acropora,Control,equal split,4,24,12,201,599,0.664
+2025-03-14,19:19:47,heat,+2.48,Acropora,Control,equal split,5,24,12,196,507,0.613
+2025-03-14,19:19:52,heat,+2.48,Acropora,Control,equal split,6,24,12,201,543,0.630
+2025-03-14,19:20:01,heat,+2.48,Acropora,Control,equal split,7,24,12,184,556,0.669
+2025-03-14,19:20:06,heat,+2.48,Acropora,Control,equal split,8,24,12,141,457,0.691
+2025-03-14,19:20:15,heat,+2.48,Acropora,Control,equal split,9,24,12,149,395,0.623
+2025-03-14,19:20:31,heat,+2.48,Acropora,Control,equal split,10,24,12,141,409,0.655
+2025-03-14,19:20:37,heat,+2.48,Acropora,Control,equal split,11,24,12,158,491,0.678
+2025-03-14,19:20:44,heat,+2.48,Acropora,Control,equal split,12,24,12,129,371,0.652
+2025-03-14,19:21:18,heat,+2.48,Acropora,Heat,equal split,13,24,12,186,338,0.450
+2025-03-14,19:21:27,heat,+2.48,Acropora,Heat,equal split,14,24,12,192,378,0.492
+2025-03-14,19:21:38,heat,+2.48,Acropora,Heat,equal split,15,24,12,313,700,0.553
+2025-03-14,19:21:49,heat,+2.48,Acropora,Heat,equal split,16,24,12,383,1071,0.642
+2025-03-14,19:21:55,heat,+2.48,Acropora,Heat,equal split,17,24,12,369,986,0.626
+2025-03-14,19:22:03,heat,+2.48,Acropora,Heat,equal split,18,24,12,366,851,0.570
+2025-03-14,19:22:14,heat,+2.48,Acropora,Heat,equal split,19,24,12,240,713,0.663
+2025-03-14,19:22:23,heat,+2.48,Acropora,Heat,equal split,20,24,12,324,706,0.541
+2025-03-14,19:22:29,heat,+2.48,Acropora,Heat,equal split,21,24,12,268,831,0.677
+2025-03-14,19:22:49,heat,+2.48,Acropora,Heat,equal split,22,24,12,394,949,0.585
+2025-03-14,19:22:56,heat,+2.48,Acropora,Heat,equal split,23,24,12,423,873,0.515
+2025-03-14,19:23:04,heat,+2.48,Acropora,Heat,equal split,24,24,12,433,801,0.459
+2025-03-14,19:23:43,heat,+2.48,Pavona,Control,your marker 19:27:07,1,34,22,489,1337,0.634
+2025-03-14,19:23:50,heat,+2.48,Pavona,Control,your marker 19:27:07,2,34,22,908,1923,0.528
+2025-03-14,19:23:59,heat,+2.48,Pavona,Control,your marker 19:27:07,3,34,22,210,418,0.498
+2025-03-14,19:24:07,heat,+2.48,Pavona,Control,your marker 19:27:07,4,34,22,94,373,0.748
+2025-03-14,19:24:11,heat,+2.48,Pavona,Control,your marker 19:27:07,5,34,22,91,281,0.676
+2025-03-14,19:24:18,heat,+2.48,Pavona,Control,your marker 19:27:07,6,34,22,75,152,0.507
+2025-03-14,19:24:29,heat,+2.48,Pavona,Control,your marker 19:27:07,7,34,22,798,1774,0.550
+2025-03-14,19:24:37,heat,+2.48,Pavona,Control,your marker 19:27:07,8,34,22,661,1545,0.572
+2025-03-14,19:24:54,heat,+2.48,Pavona,Control,your marker 19:27:07,9,34,22,722,1787,0.596
+2025-03-14,19:24:59,heat,+2.48,Pavona,Control,your marker 19:27:07,10,34,22,501,1332,0.624
+2025-03-14,19:25:50,heat,+2.48,Pavona,Control,your marker 19:27:07,11,34,22,449,1301,0.655
+2025-03-14,19:25:54,heat,+2.48,Pavona,Control,your marker 19:27:07,12,34,22,401,1215,0.670
+2025-03-14,19:26:02,heat,+2.48,Pavona,Control,your marker 19:27:07,13,34,22,490,1419,0.655
+2025-03-14,19:26:10,heat,+2.48,Pavona,Control,your marker 19:27:07,14,34,22,553,1556,0.645
+2025-03-14,19:26:18,heat,+2.48,Pavona,Control,your marker 19:27:07,15,34,22,486,1350,0.640
+2025-03-14,19:26:24,heat,+2.48,Pavona,Control,your marker 19:27:07,16,34,22,452,1255,0.640
+2025-03-14,19:26:32,heat,+2.48,Pavona,Control,your marker 19:27:07,17,34,22,544,1608,0.662
+2025-03-14,19:26:36,heat,+2.48,Pavona,Control,your marker 19:27:07,18,34,22,482,1413,0.659
+2025-03-14,19:26:41,heat,+2.48,Pavona,Control,your marker 19:27:07,19,34,22,515,1479,0.652
+2025-03-14,19:26:50,heat,+2.48,Pavona,Control,your marker 19:27:07,20,34,22,562,1585,0.645
+2025-03-14,19:26:55,heat,+2.48,Pavona,Control,your marker 19:27:07,21,34,22,419,1677,0.750
+2025-03-14,19:27:00,heat,+2.48,Pavona,Control,your marker 19:27:07,22,34,22,419,1227,0.659
+2025-03-14,19:28:00,heat,+2.48,Pavona,Heat,your marker 19:27:07,23,34,22,294,661,0.555
+2025-03-14,19:28:09,heat,+2.48,Pavona,Heat,your marker 19:27:07,24,34,22,904,1983,0.544
+2025-03-14,19:28:18,heat,+2.48,Pavona,Heat,your marker 19:27:07,25,34,22,473,1306,0.638
+2025-03-14,19:28:31,heat,+2.48,Pavona,Heat,your marker 19:27:07,26,34,22,155,295,0.475
+2025-03-14,19:28:45,heat,+2.48,Pavona,Heat,your marker 19:27:07,27,34,22,122,270,0.548
+2025-03-14,19:28:51,heat,+2.48,Pavona,Heat,your marker 19:27:07,28,34,22,549,1233,0.555
+2025-03-14,19:29:02,heat,+2.48,Pavona,Heat,your marker 19:27:07,29,34,22,384,1044,0.632
+2025-03-14,19:29:07,heat,+2.48,Pavona,Heat,your marker 19:27:07,30,34,22,331,883,0.625
+2025-03-14,19:29:14,heat,+2.48,Pavona,Heat,your marker 19:27:07,31,34,22,231,497,0.535
+2025-03-14,19:29:22,heat,+2.48,Pavona,Heat,your marker 19:27:07,32,34,22,588,1126,0.478
+2025-03-14,19:29:30,heat,+2.48,Pavona,Heat,your marker 19:27:07,33,34,22,825,1672,0.507
+2025-03-14,19:29:36,heat,+2.48,Pavona,Heat,your marker 19:27:07,34,34,22,217,448,0.516
+2025-03-14,19:30:58,heat,+2.48,Sclerophytum,Control,equal split,1,10,5,420,983,0.573
+2025-03-14,19:31:04,heat,+2.48,Sclerophytum,Control,equal split,2,10,5,262,696,0.624
+2025-03-14,19:31:11,heat,+2.48,Sclerophytum,Control,equal split,3,10,5,541,1481,0.635
+2025-03-14,19:31:19,heat,+2.48,Sclerophytum,Control,equal split,4,10,5,187,407,0.541
+2025-03-14,19:31:24,heat,+2.48,Sclerophytum,Control,equal split,5,10,5,320,1037,0.691
+2025-03-14,19:31:40,heat,+2.48,Sclerophytum,Heat,equal split,6,10,5,510,1663,0.693
+2025-03-14,19:31:54,heat,+2.48,Sclerophytum,Heat,equal split,7,10,5,989,2301,0.570
+2025-03-14,19:32:03,heat,+2.48,Sclerophytum,Heat,equal split,8,10,5,606,1431,0.577
+2025-03-14,19:32:14,heat,+2.48,Sclerophytum,Heat,equal split,9,10,5,59,59,0.000
+2025-03-14,19:32:22,heat,+2.48,Sclerophytum,Heat,equal split,10,10,5,1133,2223,0.490
+2025-03-15,19:10:41,heat,+2.93,Acropora,Control,your marker 19:11:48,1,29,12,335,909,0.631
+2025-03-15,19:10:47,heat,+2.93,Acropora,Control,your marker 19:11:48,2,29,12,332,937,0.646
+2025-03-15,19:10:53,heat,+2.93,Acropora,Control,your marker 19:11:48,3,29,12,257,828,0.690
+2025-03-15,19:10:59,heat,+2.93,Acropora,Control,your marker 19:11:48,4,29,12,285,845,0.663
+2025-03-15,19:11:04,heat,+2.93,Acropora,Control,your marker 19:11:48,5,29,12,253,777,0.674
+2025-03-15,19:11:08,heat,+2.93,Acropora,Control,your marker 19:11:48,6,29,12,234,723,0.676
+2025-03-15,19:11:15,heat,+2.93,Acropora,Control,your marker 19:11:48,7,29,12,278,820,0.661
+2025-03-15,19:11:23,heat,+2.93,Acropora,Control,your marker 19:11:48,8,29,12,247,716,0.655
+2025-03-15,19:11:29,heat,+2.93,Acropora,Control,your marker 19:11:48,9,29,12,80,390,0.795
+2025-03-15,19:11:35,heat,+2.93,Acropora,Control,your marker 19:11:48,10,29,12,254,988,0.743
+2025-03-15,19:11:40,heat,+2.93,Acropora,Control,your marker 19:11:48,11,29,12,207,776,0.733
+2025-03-15,19:11:44,heat,+2.93,Acropora,Control,your marker 19:11:48,12,29,12,306,870,0.648
+2025-03-15,19:12:07,heat,+2.93,Acropora,Heat,your marker 19:11:48,13,29,12,635,1999,0.682
+2025-03-15,19:12:11,heat,+2.93,Acropora,Heat,your marker 19:11:48,14,29,12,329,329,0.000
+2025-03-15,19:12:22,heat,+2.93,Acropora,Heat,your marker 19:11:48,15,29,12,579,1260,0.540
+2025-03-15,19:12:26,heat,+2.93,Acropora,Heat,your marker 19:11:48,16,29,12,704,1278,0.449
+2025-03-15,19:12:35,heat,+2.93,Acropora,Heat,your marker 19:11:48,17,29,12,558,1537,0.637
+2025-03-15,19:12:41,heat,+2.93,Acropora,Heat,your marker 19:11:48,18,29,12,71,166,0.572
+2025-03-15,19:12:46,heat,+2.93,Acropora,Heat,your marker 19:11:48,19,29,12,249,628,0.604
+2025-03-15,19:12:54,heat,+2.93,Acropora,Heat,your marker 19:11:48,20,29,12,266,536,0.504
+2025-03-15,19:13:00,heat,+2.93,Acropora,Heat,your marker 19:11:48,21,29,12,539,1401,0.615
+2025-03-15,19:13:06,heat,+2.93,Acropora,Heat,your marker 19:11:48,22,29,12,503,1150,0.563
+2025-03-15,19:13:12,heat,+2.93,Acropora,Heat,your marker 19:11:48,23,29,12,748,2043,0.634
+2025-03-15,19:13:16,heat,+2.93,Acropora,Heat,your marker 19:11:48,24,29,12,464,464,0.000
+2025-03-15,19:13:28,heat,+2.93,Acropora,Heat,your marker 19:11:48,25,29,12,730,1632,0.553
+2025-03-15,19:13:34,heat,+2.93,Acropora,Heat,your marker 19:11:48,26,29,12,171,601,0.715
+2025-03-15,19:13:47,heat,+2.93,Acropora,Heat,your marker 19:11:48,27,29,12,555,916,0.394
+2025-03-15,19:13:57,heat,+2.93,Acropora,Heat,your marker 19:11:48,28,29,12,1009,2206,0.543
+2025-03-15,19:14:02,heat,+2.93,Acropora,Heat,your marker 19:11:48,29,29,12,731,1846,0.604
+2025-03-15,19:14:35,heat,+2.93,Pavona,Control,your marker 19:15:57,1,25,13,488,1134,0.570
+2025-03-15,19:14:40,heat,+2.93,Pavona,Control,your marker 19:15:57,2,25,13,521,1583,0.671
+2025-03-15,19:14:46,heat,+2.93,Pavona,Control,your marker 19:15:57,3,25,13,347,1299,0.733
+2025-03-15,19:14:55,heat,+2.93,Pavona,Control,your marker 19:15:57,4,25,13,558,1500,0.628
+2025-03-15,19:15:00,heat,+2.93,Pavona,Control,your marker 19:15:57,5,25,13,388,1351,0.713
+2025-03-15,19:15:08,heat,+2.93,Pavona,Control,your marker 19:15:57,6,25,13,481,1376,0.650
+2025-03-15,19:15:15,heat,+2.93,Pavona,Control,your marker 19:15:57,7,25,13,464,1447,0.679
+2025-03-15,19:15:20,heat,+2.93,Pavona,Control,your marker 19:15:57,8,25,13,448,1196,0.625
+2025-03-15,19:15:28,heat,+2.93,Pavona,Control,your marker 19:15:57,9,25,13,499,1492,0.666
+2025-03-15,19:15:33,heat,+2.93,Pavona,Control,your marker 19:15:57,10,25,13,492,1408,0.651
+2025-03-15,19:15:39,heat,+2.93,Pavona,Control,your marker 19:15:57,11,25,13,407,1321,0.692
+2025-03-15,19:15:46,heat,+2.93,Pavona,Control,your marker 19:15:57,12,25,13,553,1719,0.678
+2025-03-15,19:15:51,heat,+2.93,Pavona,Control,your marker 19:15:57,13,25,13,388,1404,0.724
+2025-03-15,19:16:10,heat,+2.93,Pavona,Heat,your marker 19:15:57,14,25,13,273,541,0.495
+2025-03-15,19:16:20,heat,+2.93,Pavona,Heat,your marker 19:15:57,15,25,13,534,1190,0.551
+2025-03-15,19:16:27,heat,+2.93,Pavona,Heat,your marker 19:15:57,16,25,13,302,799,0.622
+2025-03-15,19:16:41,heat,+2.93,Pavona,Heat,your marker 19:15:57,17,25,13,547,1380,0.604
+2025-03-15,19:16:45,heat,+2.93,Pavona,Heat,your marker 19:15:57,18,25,13,824,1376,0.401
+2025-03-15,19:16:49,heat,+2.93,Pavona,Heat,your marker 19:15:57,19,25,13,905,1782,0.492
+2025-03-15,19:16:58,heat,+2.93,Pavona,Heat,your marker 19:15:57,20,25,13,459,1211,0.621
+2025-03-15,19:17:05,heat,+2.93,Pavona,Heat,your marker 19:15:57,21,25,13,188,321,0.414
+2025-03-15,19:17:11,heat,+2.93,Pavona,Heat,your marker 19:15:57,22,25,13,891,1878,0.526
+2025-03-15,19:17:20,heat,+2.93,Pavona,Heat,your marker 19:15:57,23,25,13,1138,2168,0.475
+2025-03-15,19:17:27,heat,+2.93,Pavona,Heat,your marker 19:15:57,24,25,13,628,1323,0.525
+2025-03-15,19:17:39,heat,+2.93,Pavona,Heat,your marker 19:15:57,25,25,13,610,1370,0.555
+2025-03-15,19:17:57,heat,+2.93,Sclerophytum,Control,equal split,1,7,3,479,1103,0.566
+2025-03-15,19:18:06,heat,+2.93,Sclerophytum,Control,equal split,2,7,3,883,2293,0.615
+2025-03-15,19:18:16,heat,+2.93,Sclerophytum,Control,equal split,3,7,3,486,1633,0.702
+2025-03-15,19:18:23,heat,+2.93,Sclerophytum,Heat,equal split,4,7,3,875,1377,0.365
+2025-03-15,19:18:28,heat,+2.93,Sclerophytum,Heat,equal split,5,7,3,249,516,0.517
+2025-03-15,19:18:38,heat,+2.93,Sclerophytum,Heat,equal split,6,7,3,185,555,0.667
+2025-03-15,19:18:48,heat,+2.93,Sclerophytum,Heat,equal split,7,7,3,503,956,0.474
+2025-03-16,19:07:16,heat,+3.47,Acropora,Control,equal split,1,23,11,489,1385,0.647
+2025-03-16,19:07:22,heat,+3.47,Acropora,Control,equal split,2,23,11,632,1727,0.634
+2025-03-16,19:07:30,heat,+3.47,Acropora,Control,equal split,3,23,11,521,1507,0.654
+2025-03-16,19:07:36,heat,+3.47,Acropora,Control,equal split,4,23,11,415,1434,0.711
+2025-03-16,19:07:42,heat,+3.47,Acropora,Control,equal split,5,23,11,506,1362,0.628
+2025-03-16,19:07:52,heat,+3.47,Acropora,Control,equal split,6,23,11,489,1374,0.644
+2025-03-16,19:07:59,heat,+3.47,Acropora,Control,equal split,7,23,11,412,1218,0.662
+2025-03-16,19:08:07,heat,+3.47,Acropora,Control,equal split,8,23,11,425,1431,0.703
+2025-03-16,19:08:15,heat,+3.47,Acropora,Control,equal split,9,23,11,403,1393,0.711
+2025-03-16,19:08:25,heat,+3.47,Acropora,Control,equal split,10,23,11,367,1332,0.724
+2025-03-16,19:08:31,heat,+3.47,Acropora,Control,equal split,11,23,11,476,1336,0.644
+2025-03-16,19:08:38,heat,+3.47,Acropora,Heat,equal split,12,23,11,551,1634,0.663
+2025-03-16,19:09:02,heat,+3.47,Acropora,Heat,equal split,13,23,11,864,1934,0.553
+2025-03-16,19:09:19,heat,+3.47,Acropora,Heat,equal split,14,23,11,821,1725,0.524
+2025-03-16,19:09:27,heat,+3.47,Acropora,Heat,equal split,15,23,11,422,1073,0.607
+2025-03-16,19:09:36,heat,+3.47,Acropora,Heat,equal split,16,23,11,667,1716,0.611
+2025-03-16,19:09:46,heat,+3.47,Acropora,Heat,equal split,17,23,11,360,1002,0.641
+2025-03-16,19:10:00,heat,+3.47,Acropora,Heat,equal split,18,23,11,373,1103,0.662
+2025-03-16,19:10:07,heat,+3.47,Acropora,Heat,equal split,19,23,11,473,1249,0.621
+2025-03-16,19:10:13,heat,+3.47,Acropora,Heat,equal split,20,23,11,117,302,0.613
+2025-03-16,19:10:32,heat,+3.47,Acropora,Heat,equal split,21,23,11,207,455,0.545
+2025-03-16,19:10:41,heat,+3.47,Acropora,Heat,equal split,22,23,11,23,83,0.723
+2025-03-16,19:10:50,heat,+3.47,Acropora,Heat,equal split,23,23,11,10,53,0.811
+2025-03-16,19:11:17,heat,+3.47,Pavona,Control,equal split,1,32,16,608,1453,0.582
+2025-03-16,19:11:24,heat,+3.47,Pavona,Control,equal split,2,32,16,725,1708,0.576
+2025-03-16,19:11:33,heat,+3.47,Pavona,Control,equal split,3,32,16,172,324,0.469
+2025-03-16,19:12:12,heat,+3.47,Pavona,Control,equal split,4,32,16,35,83,0.578
+2025-03-16,19:12:19,heat,+3.47,Pavona,Control,equal split,5,32,16,389,1214,0.680
+2025-03-16,19:12:29,heat,+3.47,Pavona,Control,equal split,6,32,16,928,1749,0.469
+2025-03-16,19:13:25,heat,+3.47,Pavona,Control,equal split,7,32,16,548,1413,0.612
+2025-03-16,19:13:32,heat,+3.47,Pavona,Control,equal split,8,32,16,518,1293,0.599
+2025-03-16,19:13:41,heat,+3.47,Pavona,Control,equal split,9,32,16,209,224,0.067
+2025-03-16,19:13:49,heat,+3.47,Pavona,Control,equal split,10,32,16,575,1457,0.605
+2025-03-16,19:13:53,heat,+3.47,Pavona,Control,equal split,11,32,16,562,1442,0.610
+2025-03-16,19:14:00,heat,+3.47,Pavona,Control,equal split,12,32,16,607,1519,0.600
+2025-03-16,19:14:10,heat,+3.47,Pavona,Control,equal split,13,32,16,436,1248,0.651
+2025-03-16,19:14:15,heat,+3.47,Pavona,Control,equal split,14,32,16,410,1463,0.720
+2025-03-16,19:14:23,heat,+3.47,Pavona,Control,equal split,15,32,16,579,1741,0.667
+2025-03-16,19:14:31,heat,+3.47,Pavona,Control,equal split,16,32,16,633,1690,0.625
+2025-03-16,19:14:37,heat,+3.47,Pavona,Heat,equal split,17,32,16,620,1667,0.628
+2025-03-16,19:14:44,heat,+3.47,Pavona,Heat,equal split,18,32,16,686,1694,0.595
+2025-03-16,19:15:08,heat,+3.47,Pavona,Heat,equal split,19,32,16,967,1852,0.478
+2025-03-16,19:15:18,heat,+3.47,Pavona,Heat,equal split,20,32,16,839,1099,0.237
+2025-03-16,19:15:28,heat,+3.47,Pavona,Heat,equal split,21,32,16,615,1271,0.516
+2025-03-16,19:15:36,heat,+3.47,Pavona,Heat,equal split,22,32,16,236,423,0.442
+2025-03-16,19:15:46,heat,+3.47,Pavona,Heat,equal split,23,32,16,581,1265,0.541
+2025-03-16,19:15:58,heat,+3.47,Pavona,Heat,equal split,24,32,16,640,1481,0.568
+2025-03-16,19:16:16,heat,+3.47,Pavona,Heat,equal split,25,32,16,372,415,0.104
+2025-03-16,19:16:21,heat,+3.47,Pavona,Heat,equal split,26,32,16,806,1223,0.341
+2025-03-16,19:16:31,heat,+3.47,Pavona,Heat,equal split,27,32,16,134,171,0.216
+2025-03-16,19:16:41,heat,+3.47,Pavona,Heat,equal split,28,32,16,1059,1880,0.437
+2025-03-16,19:16:54,heat,+3.47,Pavona,Heat,equal split,29,32,16,716,1192,0.399
+2025-03-16,19:17:03,heat,+3.47,Pavona,Heat,equal split,30,32,16,675,1522,0.557
+2025-03-16,19:17:09,heat,+3.47,Pavona,Heat,equal split,31,32,16,421,846,0.502
+2025-03-16,19:17:25,heat,+3.47,Pavona,Heat,equal split,32,32,16,1155,2035,0.432
+2025-03-16,19:17:43,heat,+3.47,Sclerophytum,Control,equal split,1,10,5,708,1683,0.579
+2025-03-16,19:17:52,heat,+3.47,Sclerophytum,Control,equal split,2,10,5,940,1722,0.454
+2025-03-16,19:18:00,heat,+3.47,Sclerophytum,Control,equal split,3,10,5,432,558,0.226
+2025-03-16,19:18:10,heat,+3.47,Sclerophytum,Control,equal split,4,10,5,708,1940,0.635
+2025-03-16,19:18:21,heat,+3.47,Sclerophytum,Control,equal split,5,10,5,773,1936,0.601
+2025-03-16,19:18:28,heat,+3.47,Sclerophytum,Heat,equal split,6,10,5,993,1991,0.501
+2025-03-16,19:18:33,heat,+3.47,Sclerophytum,Heat,equal split,7,10,5,988,2243,0.560
+2025-03-16,19:18:41,heat,+3.47,Sclerophytum,Heat,equal split,8,10,5,986,1638,0.398
+2025-03-16,19:18:56,heat,+3.47,Sclerophytum,Heat,equal split,9,10,5,776,1659,0.532
+2025-03-16,19:19:08,heat,+3.47,Sclerophytum,Heat,equal split,10,10,5,660,1278,0.484

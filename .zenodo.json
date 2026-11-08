@@ -1,0 +1,20 @@
+{
+  "title": "Thermal stress experiment on three Guam corals, March 2025",
+  "upload_type": "dataset",
+  "description": "<p>Dark-adapted photosynthetic efficiency, seawater temperature and illuminance records, and symbiont qPCR data from a seven-day thermal stress experiment on <i>Acropora</i> cf. <i>manni</i>, <i>Pavona decussata</i> and <i>Sclerophytum</i> sp. at the University of Guam Marine Laboratory, March 2025, together with the R scripts that reproduce every figure, table and statistic in the accompanying manuscript.</p><p>Code is released under the MIT licence; data and derived results under CC BY 4.0.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    { "name": "Shimpi, Gaurav G.",
+      "orcid": "0000-0003-1289-3021",
+      "affiliation": "University of Guam Marine Laboratory; The University of Tokyo" },
+    { "name": "Kim, Vinicia",
+      "affiliation": "University of Guam Marine Laboratory" },
+    { "name": "Bentlage, Bastian",
+      "orcid": "0000-0002-9554-3125",
+      "affiliation": "University of Guam Marine Laboratory" }
+  ],
+  "keywords": ["coral bleaching", "Symbiodiniaceae", "Endozoicomonas",
+               "PAM fluorometry", "thermal stress", "Guam", "octocoral"],
+  "language": "eng"
+}

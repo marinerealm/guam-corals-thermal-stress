@@ -1,0 +1,59 @@
+Sample_ID,Species,Treatment,Target,Cq,n_tech,range_Cq,Cq_ref,dCq,LOQ_flag,dCq_cal,n_cal,ddCq,FoldChange
+AC1,Acropora,Control,Cladocopium,26.11,2,0.46,22.385,3.725,ok,3.6688,4,0.0563,0.9618
+AC1,Acropora,Control,Durusdinium,32.63,2,0.68,22.385,10.245,near LOQ,11.505,4,-1.26,2.395
+AC1,Acropora,Control,Endozoicomonas,33.19,2,0.3,22.385,10.805,near LOQ,11.23,2,-0.425,1.3426
+AC2,Acropora,Control,Cladocopium,25.1,2,0.38,21.505,3.595,ok,3.6688,4,-0.0737,1.0524
+AC2,Acropora,Control,Durusdinium,34.51,2,1.04,21.505,13.005,near LOQ,11.505,4,1.5,0.3536
+AC3,Acropora,Control,Cladocopium,25.675,2,0.03,21.835,3.84,ok,3.6688,4,0.1712,0.8881
+AC3,Acropora,Control,Durusdinium,34.455,2,2.93,21.835,12.62,near LOQ,11.505,4,1.115,0.4617
+AC4,Acropora,Control,Cladocopium,24.45,2,0,20.935,3.515,ok,3.6688,4,-0.1538,1.1125
+AC4,Acropora,Control,Durusdinium,31.085,2,0.15,20.935,10.15,ok,11.505,4,-1.355,2.558
+AC4,Acropora,Control,Endozoicomonas,32.59,2,0.9,20.935,11.655,near LOQ,11.23,2,0.425,0.7448
+AT1,Acropora,Heat,Cladocopium,25.235,2,0.61,21.165,4.07,ok,3.6688,4,0.4013,0.7572
+AT1,Acropora,Heat,Durusdinium,31.455,2,0.73,21.165,10.29,ok,11.505,4,-1.215,2.3214
+AT1,Acropora,Heat,Endozoicomonas,35.375,2,2.11,21.165,14.21,near LOQ,11.23,2,2.98,0.1267
+AT2,Acropora,Heat,Cladocopium,26.705,2,0.69,22.745,3.96,ok,3.6688,4,0.2913,0.8172
+AT2,Acropora,Heat,Durusdinium,32.61,2,0.42,22.745,9.865,near LOQ,11.505,4,-1.64,3.1167
+AT2,Acropora,Heat,Endozoicomonas,34.125,2,1.63,22.745,11.38,near LOQ,11.23,2,0.15,0.9013
+AT3,Acropora,Heat,Cladocopium,28.22,2,0.22,22.88,5.34,ok,3.6688,4,1.6712,0.314
+AT3,Acropora,Heat,Durusdinium,32.465,2,0.91,22.88,9.585,near LOQ,11.505,4,-1.92,3.7842
+AT3,Acropora,Heat,Endozoicomonas,36.315,2,0.39,22.88,13.435,EXCLUDE,11.23,2,2.205,0.2169
+AT4,Acropora,Heat,Cladocopium,26.965,2,0.73,24.045,2.92,ok,3.6688,4,-0.7488,1.6803
+AT4,Acropora,Heat,Durusdinium,32.025,2,1.87,24.045,7.98,near LOQ,11.505,4,-3.525,11.5115
+AT4,Acropora,Heat,Endozoicomonas,35.65,2,0.52,24.045,11.605,near LOQ,11.23,2,0.375,0.7711
+PC1,Pavona,Control,Cladocopium,20.24,2,0.48,18.655,1.585,ok,1.5288,4,0.0563,0.9618
+PC1,Pavona,Control,Durusdinium,26.645,2,0.35,18.655,7.99,ok,8.1988,4,-0.2088,1.1557
+PC1,Pavona,Control,Endozoicomonas,24.655,2,0.03,18.655,6,ok,6.6075,4,-0.6075,1.5236
+PC2,Pavona,Control,Cladocopium,20.17,2,0.34,18.21,1.96,ok,1.5288,4,0.4313,0.7416
+PC2,Pavona,Control,Durusdinium,26.975,2,0.21,18.21,8.765,ok,8.1988,4,0.5663,0.6754
+PC2,Pavona,Control,Endozoicomonas,24.615,2,0.07,18.21,6.405,ok,6.6075,4,-0.2025,1.1507
+PC3,Pavona,Control,Cladocopium,19.78,2,0,18.5,1.28,ok,1.5288,4,-0.2487,1.1882
+PC3,Pavona,Control,Durusdinium,26.595,2,0.83,18.5,8.095,ok,8.1988,4,-0.1038,1.0746
+PC3,Pavona,Control,Endozoicomonas,25.28,2,0.2,18.5,6.78,ok,6.6075,4,0.1725,0.8873
+PC4,Pavona,Control,Cladocopium,20.29,2,0.14,19,1.29,ok,1.5288,4,-0.2388,1.18
+PC4,Pavona,Control,Durusdinium,26.945,2,0.17,19,7.945,ok,8.1988,4,-0.2538,1.1923
+PC4,Pavona,Control,Endozoicomonas,26.245,2,0.35,19,7.245,ok,6.6075,4,0.6375,0.6428
+PT1,Pavona,Heat,Cladocopium,19.79,2,0.06,18.08,1.71,ok,1.5288,4,0.1813,0.8819
+PT1,Pavona,Heat,Durusdinium,26.065,2,0.15,18.08,7.985,ok,8.1988,4,-0.2138,1.1597
+PT1,Pavona,Heat,Endozoicomonas,26.7,2,0.46,18.08,8.62,ok,6.6075,4,2.0125,0.2478
+PT2,Pavona,Heat,Cladocopium,19.645,2,0.03,18.24,1.405,ok,1.5288,4,-0.1238,1.0896
+PT2,Pavona,Heat,Durusdinium,26.31,2,0.16,18.24,8.07,ok,8.1988,4,-0.1288,1.0933
+PT2,Pavona,Heat,Endozoicomonas,25.415,2,0.09,18.24,7.175,ok,6.6075,4,0.5675,0.6748
+PT3,Pavona,Heat,Cladocopium,20.165,2,0.53,18.17,1.995,ok,1.5288,4,0.4662,0.7238
+PT3,Pavona,Heat,Durusdinium,26.21,2,0.38,18.17,8.04,ok,8.1988,4,-0.1588,1.1163
+PT3,Pavona,Heat,Endozoicomonas,24.54,2,0.12,18.17,6.37,ok,6.6075,4,-0.2375,1.1789
+PT4,Pavona,Heat,Cladocopium,20.51,2,0.06,18.205,2.305,ok,1.5288,4,0.7762,0.5839
+PT4,Pavona,Heat,Durusdinium,26.625,2,1.07,18.205,8.42,ok,8.1988,4,0.2213,0.8578
+PT4,Pavona,Heat,Endozoicomonas,24.43,2,0.08,18.205,6.225,ok,6.6075,4,-0.3825,1.3036
+SC1,Sclerophytum,Control,Cladocopium,20.185,2,0.51,22.735,-2.55,ok,-2.4375,2,-0.1125,1.0811
+SC1,Sclerophytum,Control,Durusdinium,26.595,2,0.87,22.735,3.86,ok,3.895,2,-0.035,1.0246
+SC1,Sclerophytum,Control,Endozoicomonas,23.525,2,0.01,22.735,0.79,ok,1.5075,2,-0.7175,1.6443
+SC2,Sclerophytum,Control,Cladocopium,20.4,2,0.02,22.725,-2.325,ok,-2.4375,2,0.1125,0.925
+SC2,Sclerophytum,Control,Durusdinium,26.655,2,0.75,22.725,3.93,ok,3.895,2,0.035,0.976
+SC2,Sclerophytum,Control,Endozoicomonas,24.95,2,0.58,22.725,2.225,ok,1.5075,2,0.7175,0.6082
+ST1,Sclerophytum,Heat,Cladocopium,20.11,2,0.52,22.88,-2.77,ok,-2.4375,2,-0.3325,1.2592
+ST1,Sclerophytum,Heat,Durusdinium,26.65,2,0.68,22.88,3.77,ok,3.895,2,-0.125,1.0905
+ST1,Sclerophytum,Heat,Endozoicomonas,21.76,2,0.02,22.88,-1.12,ok,1.5075,2,-2.6275,6.1795
+ST2,Sclerophytum,Heat,Cladocopium,20.395,2,0.05,22.985,-2.59,ok,-2.4375,2,-0.1525,1.1115
+ST2,Sclerophytum,Heat,Durusdinium,27.19,2,0.42,22.985,4.205,ok,3.895,2,0.31,0.8066
+ST2,Sclerophytum,Heat,Endozoicomonas,21.76,2,0.1,22.985,-1.225,ok,1.5075,2,-2.7325,6.6461

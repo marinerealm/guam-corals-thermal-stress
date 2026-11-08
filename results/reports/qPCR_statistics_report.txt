@@ -1,0 +1,77 @@
+=====================================================================
+ qPCR STATISTICAL REPORT   2026-11-07 18:46 
+=====================================================================
+
+SECTION 1. CONTROL vs HEAT -- DESCRIPTIVE ONLY
+---------------------------------------------------------------------
+One tank per treatment, so fragments within a tank are pseudoreplicates
+with respect to temperature. A control-vs-heat p-value here tests whether
+two tanks differed, not whether temperature caused the difference. Report
+the fold changes; do NOT report such p-values as evidence of a
+temperature effect.
+
+       Species         Target n mean_ddCq sd_ddCq FoldChange FC_lo_SD FC_hi_SD
+1     Acropora Endozoicomonas 4     1.427   1.385      0.372    0.142    0.971
+2     Acropora    Cladocopium 4     0.404   0.991      0.756    0.380    1.503
+3     Acropora    Durusdinium 4    -2.075   1.009      4.213    2.093    8.481
+4       Pavona Endozoicomonas 4     0.490   1.098      0.712    0.333    1.524
+5       Pavona    Cladocopium 4     0.325   0.385      0.798    0.611    1.043
+6       Pavona    Durusdinium 4    -0.070   0.197      1.050    0.916    1.204
+7 Sclerophytum Endozoicomonas 2    -2.680   0.074      6.409    6.087    6.747
+8 Sclerophytum    Cladocopium 2    -0.242   0.127      1.183    1.083    1.292
+9 Sclerophytum    Durusdinium 2     0.092   0.308      0.938    0.758    1.161
+                     Reliability
+1 UNRELIABLE - all near/over LOQ
+2                             ok
+3        caution - some near LOQ
+4                             ok
+5                             ok
+6                             ok
+7                             ok
+8                             ok
+9                             ok
+
+
+SECTION 2. BETWEEN SPECIES, HEATED TANK -- VALID INFERENCE
+---------------------------------------------------------------------
+All three species were held in the same heated tank, so tank identity is
+held constant and species differences are not confounded by tank. These
+tests are the basis for the statistical claims in the manuscript.
+Tests are run on ddCq, not on fold change.
+
+          Target df1 df2       F      p   KW_H   KW_p
+1 Endozoicomonas   2   7  8.5656 0.0131 5.2364 0.0729
+2    Cladocopium   2   7  0.6177 0.5662 2.5091 0.2852
+3    Durusdinium   2   7 10.9406 0.0070 7.2818 0.0262
+
+
+SECTION 3. PAIRWISE, Welch t-test with Benjamini-Hochberg correction
+---------------------------------------------------------------------
+          Target Species_A    Species_B n_A n_B mean_ddCq_A mean_ddCq_B  p_raw
+1 Endozoicomonas  Acropora       Pavona   4   4      1.4275      0.4900 0.3315
+2 Endozoicomonas  Acropora Sclerophytum   4   2      1.4275     -2.6800 0.0094
+3 Endozoicomonas    Pavona Sclerophytum   4   2      0.4900     -2.6800 0.0099
+4    Cladocopium  Acropora       Pavona   4   4      0.4037      0.3250 0.8896
+5    Cladocopium  Acropora Sclerophytum   4   2      0.4037     -0.2425 0.2848
+6    Cladocopium    Pavona Sclerophytum   4   2      0.3250     -0.2425 0.0575
+7    Durusdinium  Acropora       Pavona   4   4     -2.0750     -0.0700 0.0262
+8    Durusdinium  Acropora Sclerophytum   4   2     -2.0750      0.0925 0.0184
+9    Durusdinium    Pavona Sclerophytum   4   2     -0.0700      0.0925 0.5893
+    p_BH signif
+1 0.3315     ns
+2 0.0149      *
+3 0.0149      *
+4 0.8896     ns
+5 0.4271     ns
+6 0.1724     ns
+7 0.0393      *
+8 0.0393      *
+9 0.5893     ns
+
+
+SECTION 4. LIMIT OF QUANTIFICATION
+---------------------------------------------------------------------
+Endozoicomonas and Durusdinium in A. cf. manni returned Cq 32-35, at or
+beyond reliable quantification. Those fold changes are relative patterns,
+not precise estimates. Sclerophytum sp. is n = 2 per group throughout,
+following mortality of two of the four colonies.

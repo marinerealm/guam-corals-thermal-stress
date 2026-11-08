@@ -1,0 +1,93 @@
+=====================================================================
+ LOGGER REPORT   2026-11-07 18:46 
+=====================================================================
+
+Onset HOBO UA-002-64 Pendant, 15-minute interval, accurate to +/-0.2 C.
+Serial numbers 21086852 (control tank) and 21086851 (heated tank).
+Deployed 16:00 on 11 March; readings before 16:45 were taken in air and
+are excluded. No record exists for 10 March or the earlier part of 11 March.
+
+--- Night-time daily means (illuminance zero) ---
+         Date  n Control Treatment Elevation Cumulative_Cdays
+1  2025-03-11 22   28.77     30.35      1.58             0.00
+2  2025-03-12 47   28.74     30.77      2.04             2.17
+3  2025-03-13 47   28.63     30.73      2.10             4.45
+4  2025-03-14 47   28.64     31.12      2.48             6.99
+5  2025-03-15 47   28.69     31.62      2.93             9.98
+6  2025-03-16 47   28.83     32.30      3.47            13.87
+7  2025-03-17 48   29.02     30.92      1.90            17.20
+8  2025-03-18 48   29.12     29.04     -0.08            17.29
+9  2025-03-19 48   29.00     28.89     -0.11            17.40
+10 2025-03-20 48   28.97     28.86     -0.10            17.59
+11 2025-03-21 48   28.89     28.86     -0.04            17.67
+12 2025-03-22 48   28.75     28.77      0.02            17.75
+13 2025-03-23 48   28.67     28.72      0.06            17.95
+14 2025-03-24 48   28.63     28.74      0.11            18.21
+15 2025-03-25 48   28.62     28.68      0.06            18.40
+16 2025-03-26 25   28.58     28.64      0.06            18.54
+
+--- Heater switch-on, evening of 11 March ---
+    Time Control Heated Difference
+1  19:00   28.85  28.85       0.00
+2  19:15   28.85  28.85       0.00
+3  19:30   28.85  29.05       0.20
+4  19:45   28.85  29.65       0.80
+5  20:00   28.85  30.05       1.20
+6  20:15   28.85  30.36       1.50
+7  20:30   28.75  30.56       1.80
+8  20:45   28.75  30.66       1.90
+9  21:00   28.75  30.76       2.01
+10 21:15   28.75  30.86       2.11
+
+The two tanks were at the same temperature at 19:15 and diverged
+immediately afterwards, placing switch-on at approximately 19:30.
+That night's PAM session ran 19:04-19:17 and so precedes the heater.
+The shaded thermal-stress band in Figure 1 begins at that timestamp.
+
+--- Composition of the 11 March night-time mean ---
+     Tank        Period  n  Temp
+1 Control  after heater 18 28.74
+2 Control before heater  4 28.90
+3  Heated  after heater 18 30.67
+4  Heated before heater  4 28.90
+Markers for this night are drawn at 21:07, the mean timestamp of its
+readings, which falls after the heater came on. The night pools a few
+pre-heater readings, when both tanks were identical, with the rest after
+switch-on, so its mean is not a baseline value and is not treated as one.
+
+--- Cumulative excess heat at 19:00 each night (C-days) ---
+         Date  Dose
+1  2025-03-11  0.00
+2  2025-03-12  2.17
+3  2025-03-13  4.45
+4  2025-03-14  6.99
+5  2025-03-15  9.98
+6  2025-03-16 13.87
+7  2025-03-17 17.20
+8  2025-03-18 17.29
+9  2025-03-19 17.40
+10 2025-03-20 17.59
+11 2025-03-21 17.67
+12 2025-03-22 17.75
+13 2025-03-23 17.95
+14 2025-03-24 18.21
+15 2025-03-25 18.40
+16 2025-03-26 18.54
+
+Total over the whole record: 18.54 C-days
+Defined relative to the concurrent unheated control, NOT to a regional
+climatological maximum monthly mean. This is not Degree Heating Weeks
+and must not be compared with published DHW values.
+
+--- Daily range and daytime maxima ---
+      Tank       Date   Min   Max Range
+1  Control 2025-03-12 28.56 32.19  3.63
+2  Control 2025-03-13 28.46 32.29  3.83
+3  Control 2025-03-14 28.46 31.27  2.81
+4  Control 2025-03-15 28.46 31.47  3.02
+5  Control 2025-03-16 28.66 32.39  3.74
+6   Heated 2025-03-12 28.95 35.33  6.38
+7   Heated 2025-03-13 27.17 35.12  7.94
+8   Heated 2025-03-14 30.76 34.06  3.30
+9   Heated 2025-03-15 31.17 34.90  3.74
+10  Heated 2025-03-16 31.98 35.65  3.67

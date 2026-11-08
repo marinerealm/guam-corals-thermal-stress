@@ -1,0 +1,111 @@
+=====================================================================
+ PAM STATISTICAL REPORT    2026-09-13 22:06 
+ Phase scheme:  REALISED 
+ Baseline nights:  10only 
+=====================================================================
+
+DESIGN CONSTRAINT
+One aquarium per treatment, so fragments within an aquarium are not
+independent with respect to temperature. Control-vs-heat differences are
+reported as effect sizes only. Between-species comparisons within the
+heated aquarium are valid, because all species shared the same water.
+
+--- 5a. Baseline: species differences and tank offset ---
+            Df  Sum Sq  Mean Sq F value Pr(>F)  
+Species      2 0.05099 0.025495   5.772 0.0116 *
+Residuals   18 0.07951 0.004417                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Tukey HSD:
+                         diff     lwr     upr  p adj
+Pavona-Acropora       -0.0640 -0.1556  0.0276 0.2038
+Sclerophytum-Acropora -0.1164 -0.2042 -0.0286 0.0088
+Sclerophytum-Pavona   -0.0525 -0.1468  0.0419 0.3527
+
+Tank offset within each species at baseline (should be near zero):
+  Acropora       control 0.669 vs heat 0.659  diff -0.010  p = 0.830
+  Pavona         control 0.615 vs heat 0.585  diff -0.030  p = 0.659
+  Sclerophytum   control 0.598 vs heat 0.510  diff -0.088  p = 0.103
+
+--- 5b. Control stability across the experiment ---
+  Acropora       slope  -0.04 %/day  p = 0.910  (stable)
+  Pavona         slope  +2.35 %/day  p = 0.000  (DRIFTING)
+  Sclerophytum   slope  -1.17 %/day  p = 0.183  (stable)
+
+--- 5c. BETWEEN-SPECIES WITHIN HEATED AQUARIUM  [VALID INFERENCE] ---
+Pooled across warming nights (n = 140):
+  Kruskal-Wallis H = 24.303, df = 2, p = 0.0000
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+Species       2   6113  3056.5   14.73 1.61e-06 ***
+Residuals   137  28435   207.6                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Tukey HSD:
+                         diff      lwr     upr  p adj
+Pavona-Acropora       -4.8162 -11.1849  1.5524 0.1761
+Sclerophytum-Acropora 13.8147   5.6036 22.0257 0.0003
+Sclerophytum-Pavona   18.6309  10.4846 26.7772 0.0000
+
+Per warming night:
+        Date  n      F      p
+1 2025-03-12 26 14.070 0.0001
+2 2025-03-13 26  1.341 0.2812
+3 2025-03-14 28  9.326 0.0009
+4 2025-03-15 30  0.933 0.4056
+5 2025-03-16 30  4.615 0.0189
+
+Recovery night, between species:
+            Df Sum Sq Mean Sq F value Pr(>F)  
+Species      2  499.9  249.94   4.427 0.0283 *
+Residuals   17  959.8   56.46                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Tukey HSD:
+                         diff     lwr     upr  p adj
+Pavona-Acropora        7.8699 -2.4335 18.1733 0.1528
+Sclerophytum-Acropora 12.1452  1.4211 22.8693 0.0253
+Sclerophytum-Pavona    4.2753 -6.4488 14.9994 0.5731
+
+--- 5d. Trajectory within each species and tank ---
+       Species    Tank  n  slope      p
+1     Acropora Control 61  1.329 0.0009
+2     Acropora    Heat 63 -2.216 0.0111
+3       Pavona Control 74  3.043 0.0004
+4       Pavona    Heat 66 -0.739 0.5599
+5 Sclerophytum Control 31 -2.977 0.0361
+6 Sclerophytum    Heat 31 -1.754 0.1740
+
+--- 5e. Control vs heat [DESCRIPTIVE ONLY] ---
+         Date Elev_meas      Species Diff_FvFm Diff_Pct
+1  2025-03-10        NA     Acropora    -0.010    0.000
+2  2025-03-10        NA       Pavona    -0.030    0.000
+3  2025-03-10        NA Sclerophytum    -0.088    0.000
+4  2025-03-11      0.00     Acropora    -0.029   -2.923
+5  2025-03-11      0.00       Pavona     0.007    6.032
+6  2025-03-11      0.00 Sclerophytum     0.021   19.062
+7  2025-03-12      2.04     Acropora     0.034    6.485
+8  2025-03-12      2.04       Pavona    -0.018    1.125
+9  2025-03-12      2.04 Sclerophytum    -0.024   12.204
+10 2025-03-13      2.10     Acropora     0.047    8.539
+11 2025-03-13      2.10       Pavona     0.007    6.509
+12 2025-03-13      2.10 Sclerophytum     0.040   22.963
+13 2025-03-14      2.48     Acropora    -0.094  -12.778
+14 2025-03-14      2.48       Pavona    -0.081   -8.451
+15 2025-03-14      2.48 Sclerophytum    -0.030   11.741
+16 2025-03-15      2.93     Acropora    -0.088  -11.821
+17 2025-03-15      2.93       Pavona    -0.152  -20.359
+18 2025-03-15      2.93 Sclerophytum    -0.122   -5.794
+19 2025-03-16      3.47     Acropora    -0.054   -6.781
+20 2025-03-16      3.47       Pavona    -0.164  -22.814
+21 2025-03-16      3.47 Sclerophytum    -0.048    6.956
+22 2025-03-17      1.91     Acropora    -0.063   -8.008
+23 2025-03-17      1.91       Pavona    -0.010    3.314
+24 2025-03-17      1.91 Sclerophytum     0.096   31.495
+
+Does the effect scale with measured temperature elevation?
+  Acropora        -7.24 % per degree C  p = 0.341
+  Pavona         -19.66 % per degree C  p = 0.003
+  Sclerophytum   -15.41 % per degree C  p = 0.103

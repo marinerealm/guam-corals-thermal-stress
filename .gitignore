@@ -1,0 +1,12 @@
+# Generated output — regenerate by running the scripts
+results/figures/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS cruft
+.DS_Store
+Thumbs.db
